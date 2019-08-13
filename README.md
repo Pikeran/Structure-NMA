@@ -1,5 +1,4 @@
-# Main:
-
+# Componentes structure NMA:
 #### >Estructura web nodeJS  [![node](https://static.filehorse.com/icons/developer-tools/nodejs-icon-32.png)](https://nodejs.org/es/)
 #### >MongoDB
 #### >Angular
