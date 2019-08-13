@@ -4,8 +4,8 @@
 #### >MongoDB
 #### >Angular
 
-# Estructura:
+### Estructura:
 Sencilla instalación de cada uno de los entornos y su correspondiente configuración.
 
-# Referencias:
+### Referencias:
 Aportación de diferentes referencias utilizadas en cada uno de los pasos.
