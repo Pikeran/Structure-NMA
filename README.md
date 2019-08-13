@@ -1,4 +1,4 @@
-# Componentes structure NMA:
+# Componentes NMA:
  | Componentes |
  |-------------|
  | [Estructura web nodeJS](https://nodejs.org/es/download/)  [![node](https://static.filehorse.com/icons/developer-tools/nodejs-icon-32.png)](https://nodejs.org/es/) |
