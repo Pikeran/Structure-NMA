@@ -1,8 +1,8 @@
-# MAIN:
+# Main:
 Estructura web nodeJS , MongoDB y Angular
 
-# ESTRUCTURA:
+# Estructura:
 Sencilla instalación de cada uno de los entornos y su correspondiente configuración.
 
-# REFERENCIAS:
+# Referencias:
 Aportación de diferentes referencias utilizadas en cada uno de los pasos.
