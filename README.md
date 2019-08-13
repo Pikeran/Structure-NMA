@@ -1,5 +1,8 @@
 # Main:
-Estructura web nodeJS , MongoDB y Angular
+
+#### >Estructura web nodeJS  [![node](https://static.filehorse.com/icons/developer-tools/nodejs-icon-32.png)](https://nodejs.org/es/)
+#### >MongoDB
+#### >Angular
 
 # Estructura:
 Sencilla instalación de cada uno de los entornos y su correspondiente configuración.
