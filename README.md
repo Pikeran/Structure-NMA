@@ -1,5 +1,5 @@
 # Structure-NMA
 Estructura web nodeJS , MongoDB y Angular
 
-# Este apartado se compondra de diversos puntos:
-+Sencilla instalación de cada uno de los entornos.
+# Estructura / Estructure:
+Sencilla instalación de cada uno de los entornos y su correspondiente configuración.
