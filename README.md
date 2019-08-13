@@ -1,9 +1,9 @@
 # Componentes structure NMA:
  | Componentes |
  |-------------|
- | Estructura web nodeJS  [![node](https://static.filehorse.com/icons/developer-tools/nodejs-icon-32.png)](https://nodejs.org/es/) |
- | MongoDB |
- | Angular |
+ | [Estructura web nodeJS](https://nodejs.org/es/download/)  [![node](https://static.filehorse.com/icons/developer-tools/nodejs-icon-32.png)](https://nodejs.org/es/) |
+ | [MongoDB](https://www.tutorialspoint.com/mongodb/) |
+ | [Angular](https://angular.io/start) |
 
 ### Estructura:
 ----------------
