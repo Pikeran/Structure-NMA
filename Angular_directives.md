@@ -45,4 +45,12 @@ Si se cumple lo especificado no se mostará el elemento ↑.
             let index = this.lista.indexOf(x);
             this.lista-splice(index, 1);
         }
-En el botón se realizará una llamada al método, y eliminará el elemento del DOM.        
+En el botón se realizará una llamada al método, y eliminará el elemento del DOM.  
+
+### NGCLASS
+        <span class= "circulo"
+            [ngClass] = "{
+                'circulo-lleno': seleccionado,
+                'circulo-vacio': !seleccionado }" (click)="cambiarEstado()">
+         </span>       
+Con esta directiva podemos controlar los atributos de un elemento mediante su clase.         
