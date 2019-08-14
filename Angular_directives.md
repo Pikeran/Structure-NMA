@@ -52,5 +52,5 @@ En el botón se realizará una llamada al método, y eliminará el elemento del 
             [ngClass] = "{
                 'circulo-lleno': seleccionado,
                 'circulo-vacio': !seleccionado }" (click)="cambiarEstado()">
-         </span>       
+        </span>       
 Con esta directiva podemos controlar los atributos de un elemento mediante su clase.         
