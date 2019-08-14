@@ -3,7 +3,11 @@
 |-------|--------|------------|------------|
 |npm install -g @angular/cli|npm unistall -g angular/cli|npm cache verify|npm --version|
 
-## Posteriormente procederemos a inicializar un proyecto
+## Inicializar el proyecto
     ng new NombreProyecto
-## Iniciaremos el servidor
+## Inicializar el servidor
     ng serve
+## Estructura de proyecto    
+### NODE MODULES:
+Se trata donde se almacenan todas las bibliotecas
+de terceros de las cuales dependeran nuestro proyecto
