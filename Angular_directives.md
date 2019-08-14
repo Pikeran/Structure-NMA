@@ -54,3 +54,8 @@ En el botón se realizará una llamada al método, y eliminará el elemento del 
                 'circulo-vacio': !seleccionado }" (click)="cambiarEstado()">
         </span>       
 Con esta directiva podemos controlar los atributos de un elemento mediante su clase.         
+
+Existen muchas directivas recomiendo revisarlas en [Angular](https://angular.io/api/core/Directive) ,podemos encontrar desde directivas que controlan tu codigo mediante los estilos hasta la posibilidad de crear tus propias directivas-custom.
+
+(Bibliografia obtenida del curso de Udemy "The complete angular course: Beginner to advanced" lo recomiendo personalmente.
+                
