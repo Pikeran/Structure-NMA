@@ -29,7 +29,20 @@ Si se cumple lo especificado no se mostará el elemento ↑.
  
  ### NGFOR
         <ul>
-          <li *ngFor = "let x of y; index as i">
+          <li *ngFor = "let x of list; index as i">
                 {{ i }} - {{ x.name }}
           </li>
         </ul>
+ #### EJEMPLO ↓↓
+         <ul>
+          <li *ngFor = "let x of list">
+                {{ x.name }}
+                <button (click) = "onRemove(x)">Borrar</button>
+          </li>
+        </ul>
+        
+        onRemove(x)  {
+            let index = this.lista.indexOf(x);
+            this.lista-splice(index, 1);
+        }
+En el botón se realizará una llamada al método, y eliminará el elemento del DOM.        
