@@ -7,8 +7,8 @@
 
 ### Estructura:
 ----------------
-Sencilla instalación de cada uno de los entornos y su correspondiente configuración. Asi como
-sus diferentes utilidades.
+![esquema](https://carlosazaustre.es/blog/content/images/2015/10/tutorial-angular-node-esquema-arquitectura-aplicacion-web.png)
+
 
 ### Referencias:
 -----------------
