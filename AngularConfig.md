@@ -8,6 +8,9 @@
 ## Inicializar el servidor
     ng serve
 ## Estructura de proyecto    
-### NODE MODULES:
-Se trata donde se almacenan todas las bibliotecas
-de terceros de las cuales dependeran nuestro proyecto
+    [node_modules] ➜ Se trata donde se almacenan todas las bibliotecas de terceros de las cuales dependeran nuestro proyecto.
+    
+    [src] ➜ La carpeta del codigo principal.
+      [↓ app] ➜ Directorio donde se almacenan los modulos y los componentes.
+      [↓ assets] ➜ Directorio donde se almacenan los activos estaticos.
+      [↓ environment] ➜ Almacena la configuración de los diferentes entornos.
