@@ -7,8 +7,10 @@
 
 ### Estructura:
 ----------------
-Sencilla instalación de cada uno de los entornos y su correspondiente configuración.
+Sencilla instalación de cada uno de los entornos y su correspondiente configuración. Asi como
+sus diferentes utilidades.
 
 ### Referencias:
 -----------------
 Aportación de diferentes referencias utilizadas en cada uno de los pasos.
+(Bibliografia) y diferentes blogs de referencia utilizados. 
