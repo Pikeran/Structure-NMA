@@ -24,6 +24,6 @@ La base de nuestro proyecto se forja en el main.ts, y toda esta estructura compl
 ## COMPONENTES: DATA ➜ HTML template ➜ LOGIC
     ng g c 'COMPONENTE'
            
-## SERVICES:
+## SERVICES: SERVICE ➜ COMPONENT
      ng g s 'SERVICE'
  
