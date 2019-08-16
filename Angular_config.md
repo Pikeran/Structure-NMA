@@ -19,13 +19,11 @@
         componentes ➜ module ➜ [index.html] 
 La base de nuestro proyecto se forja en el main.ts, y toda esta estructura compleja estara formada de diferentes elementos:
 ## MODULOS:
- Los modulos se ocuparan de dividir nuestra app en diferentes secciones, la cuales tendran
- sus diferentes comportamientos y componentes, en cada módulo se especificaran que componentes
- formaran parte de él ➜ Ejemplo ➜ AppComponent // 
+    ng generate module nombre
                                   
 ## COMPONENTES: DATA ➜ HTML template ➜ LOGIC
     ng g c COMPONENTE
            
 ## SERVICES:
-
+     ng g s SERVICE
  
