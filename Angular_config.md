@@ -18,23 +18,14 @@
         [main.ts] ➜ [main.js] ➜ [index.html]
         componentes ➜ module ➜ [index.html] 
 La base de nuestro proyecto se forja en el main.ts, y toda esta estructura compleja estara formada de diferentes elementos:
-## Modulos:
-        Los modulos se ocuparan de dividir nuestra app en diferentes secciones, la cuales tendran
-        sus diferentes comportamientos y componentes, en cada módulo se especificaran que componentes
-        formaran parte de él ➜ Ejemplo ➜ AppComponent // 
-        
-        import { BrowserModule } from '@angular/platform-browser';
-        @NgModule({
-                declarations: [➜➜ AppComponent]
-                ,imports: []
-                ,providers: []
-                ,bootstrap: [AppComponent]
-         })                     
-## Componentes:
-        Los componentes son partes especificas de la app, estos se ocuparan de administrar partes 
-        especificas de nuestra aplicación o website.
-## Imports:
-        Para cubrir las dependencias de los diferentes apartados de nuestra app, deberemos incluir
-        los imports correspondientes, esto nos permitira añadir librerias y funcionalidades externas.
-  
+## MODULOS:
+ Los modulos se ocuparan de dividir nuestra app en diferentes secciones, la cuales tendran
+ sus diferentes comportamientos y componentes, en cada módulo se especificaran que componentes
+ formaran parte de él ➜ Ejemplo ➜ AppComponent // 
+                                  
+## COMPONENTES: DATA ➜ HTML template ➜ LOGIC
+    ng g c COMPONENTE
+           
+## SERVICES:
+
  
