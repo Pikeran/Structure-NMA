@@ -19,11 +19,11 @@
         componentes ➜ module ➜ [index.html] 
 La base de nuestro proyecto se forja en el main.ts, y toda esta estructura compleja estara formada de diferentes elementos:
 ## MODULOS:
-    ng generate module nombre
+    ng generate module 'MODULO'
                                   
 ## COMPONENTES: DATA ➜ HTML template ➜ LOGIC
-    ng g c COMPONENTE
+    ng g c 'COMPONENTE'
            
 ## SERVICES:
-     ng g s SERVICE
+     ng g s 'SERVICE'
  
